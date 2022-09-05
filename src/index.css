@@ -1,0 +1,18 @@
+.border{
+  border: 2px solid black;
+}
+.h{
+  height: 100%;
+}
+.w{
+  width: 100%;
+}
+.wbc{
+  background-color: white;
+}
+.wc{
+  color: grey;
+}
+.pd5{
+  padding: 10px;
+}
